@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Api\\homework5\\CourseApp\\CourseApp\\wwwroot\\image\\30e92b42-e5be-4497-b5a9-7dba25154f01blog9.jpg",
+      "PackagePath": "staticwebassets\\image\\30e92b42-e5be-4497-b5a9-7dba25154f01blog9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Api\\homework5\\CourseApp\\CourseApp\\wwwroot\\image\\48652732-3218-4216-9c77-ba5615f239bcblog8.jpg",
+      "PackagePath": "staticwebassets\\image\\48652732-3218-4216-9c77-ba5615f239bcblog8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Api\\homework5\\CourseApp\\CourseApp\\wwwroot\\image\\cbbc82f9-6cd3-43ac-bc5f-b2541598595eblog7.jpg",
+      "PackagePath": "staticwebassets\\image\\cbbc82f9-6cd3-43ac-bc5f-b2541598595eblog7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Farid\\Desktop\\homewotk\\Api\\homework5\\CourseApp\\CourseApp\\wwwroot\\txt\\file.txt",
+      "PackagePath": "staticwebassets\\txt\\file.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CourseApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CourseApp.props",
+      "PackagePath": "build\\CourseApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CourseApp.props",
+      "PackagePath": "buildMultiTargeting\\CourseApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CourseApp.props",
+      "PackagePath": "buildTransitive\\CourseApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
